@@ -1,4 +1,5 @@
 var express = require("express");
+var cors = require('cors');
 /*var bodyParser = require("body-parser");
 var ossInterface = require("./node/ossInterface");
 var ossConfiguration = require("./node/ossConfiguration");*/
@@ -12,6 +13,7 @@ var https = require("https");
 } catch (e) {}*/
 
 var app = express();
+app.use(cors());
 
 var port = process.env.PORT || 5000;
 var https_port = process.env.HTTPS_PORT || parseInt(port) + 1;

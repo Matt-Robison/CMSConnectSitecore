@@ -3,12 +3,12 @@
       {
          "ItemID":"maternity-education.json",
          "ItemName":"Videos",
-         "Description":"Look at the maternitiy videos"
+         "Text":"Look at the maternitiy videos"
       },
       {
          "ItemID":"faq.json",
          "ItemName":"FAQ",
-         "Description":"Look at our FAQs"
+         "Text":"Look at our FAQs"
       }
    ]
 }

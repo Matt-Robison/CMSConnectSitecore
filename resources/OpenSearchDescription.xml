@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<OpenSearchDescription xmlns="http://a9.com/-/spec/opensearch/1.1/" xmlns:sfdc="http://salesforce.com/2016/federatedsearch/1.0">
+  <ShortName>CMS Search</ShortName>
+  <Contact>support@example.com</Contact>
+  <Url type="application/atom+xml" template="https://cms-connect-sitecore.herokuapp.com/resources/searchResults.json?{searchTerms}"/>
+  <Attribution>
+    Copyright 2016, All Rights Reserved
+  </Attribution>
+  <InputEncoding>UTF-8</InputEncoding>
+  <OutputEncoding>UTF-8</OutputEncoding>
+</OpenSearchDescription>

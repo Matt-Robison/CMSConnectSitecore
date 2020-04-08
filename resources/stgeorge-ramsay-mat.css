@@ -1,0 +1,154 @@
+@charset "utf-8";
+/* CSS Document */
+/* Default styles */
+h1 {
+	color:#4874bb;
+}
+h2 {
+	color:#4874bb;
+}
+h4 {
+	color:#4874bb;
+}
+. page-with-pic a {
+	color:#4874bb !important;	
+}
+. page a {
+	color:#4874bb !important;	
+}
+
+.specbannerimage {
+	position: relative;
+	background-size: 100%;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 300px;
+	width: 100%;
+	background-size: cover;
+}
+.lvl1image {
+	position: relative;
+	background-image:url(/-/media/Content-Images/WMP/Maternity/Book-A-Tour_Small.jpg);
+	background-repeat: no-repeat;
+	background-position: center;
+	width: 100%;
+	height:185px;
+	background-size: cover;
+}
+.lvl1image1 {
+	background-image:url(/-/media/Content-Images/WMP/Maternity/Book-A-Tour_Small.jpg);
+}
+.lvl1image2 {
+	background-image:url(/-/media/Content-Images/WMP/Maternity/Education-Classes.jpg);
+}
+.lvl1image3 {
+	background-image:url(/-/media/Content-Images/WMP/Maternity/Accommodation.jpg);
+}
+.lvl1image4 {
+	background-image:url(/-/media/Content-Images/WMP/Maternity/home/OurDoctors.jpg);
+}
+.lvl1txt {
+	width:100%;
+	font-size:20px; 
+	color:#FFFFFF; 
+	background-color:#000000; 
+	opacity: 0.6;
+	position: absolute; 
+	bottom: 0; 
+	padding: 15px 10px 15px 10px;
+}
+.lvl2mat {
+	background-color:#FFFFFF !important;
+	width:100%;
+	height:244px;
+}
+.lvl2image {
+	width:50%;
+	float:left;
+	height:244px;
+	background-color:#FFFFFF;
+}
+.lvl2txt {
+	width:48%;
+	float:left;
+	padding: 20px 0px 0px 15px;
+	height:244px;
+	background-color:#FFFFFF;
+}
+.matheading {
+	color: #4874bb !important;
+}
+.matcontact {
+	padding: 0px 15px;
+	font-size:14px;
+}
+
+/* Left menu */
+.left-menu {
+	background-image:none !important;
+}
+.left-menu>li>a {
+	padding:5px;
+	background-image:none !important;
+	color:#4874bb;
+	border-bottom:1px solid #4874bb;	
+}
+.left-menu>li>a:hover {
+	text-decoration: none;
+}
+.left-menu-active>a {
+	text-decoration: none;
+	border-bottom:1px solid #4874bb;	
+	background-image:none !important;
+	font-weight:normal !important;
+}
+.left-menu-active>a {
+	text-decoration: none;
+	font-weight:normal !important;
+	border-bottom:1px solid #FFF;	
+}
+.left-menu li:first-child > a {
+	border-top: none !important;
+}
+.left-menu>li>a:hover {
+	text-decoration: none;
+	background-image:none !important;
+}
+#sectionNav .open li {
+	background-image:none !important;
+	border-bottom:1px solid #4874bb;
+	
+}
+#sectionNav .open li a {
+	color:#4874bb;
+}
+#sectionNav .open li:hover {
+	background-color:#EEEEEE;
+}
+#sectionNav .highlight {
+	background-color:#EEEEEE !important;
+}
+#sectionNav .highlight a {
+	font-weight:normal !important;
+	background-image:none !important;	
+	color:#4874bb;
+}
+#sectionNav .open a:hover {
+	text-decoration:none !important;
+}
+
+@media(max-width:768px){
+.specbannerimage {
+	height: 350px !important;
+	overflow:auto !important;
+	background-image:none !important;
+}
+.lvl2image {
+	width:100%;
+	margin-bottom:20px;
+}
+.lvl2txt {
+	width:100%;
+	padding: 20px 0px 0px 15px;
+}
+}

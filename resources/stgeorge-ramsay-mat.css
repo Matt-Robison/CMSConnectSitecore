@@ -1,13 +1,13 @@
 @charset "utf-8";
 /* CSS Document */
 /* Default styles */
-h1 {
+.page-content h1 {
 	color:#4874bb;
 }
-h2 {
+.page-content h2 {
 	color:#4874bb;
 }
-h4 {
+.page-content h4 {
 	color:#4874bb;
 }
 . page-with-pic a {

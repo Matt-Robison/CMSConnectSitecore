@@ -1,11 +1,14 @@
 {
-	"articles":
-		[
-			{
-				"ItemID":"maternity-education.json","ItemName":"Videos","Description":"Look at the maternitiy videos"
-			},
-			{
-				"ItemID":"faq.json.json","ItemName":"FAQ","Look at our FAQs"
-			}
-		]
+   "articles":[
+      {
+         "ItemID":"maternity-education.json",
+         "ItemName":"Videos",
+         "Description":"Look at the maternitiy videos"
+      },
+      {
+         "ItemID":"faq.json.json",
+         "ItemName":"FAQ",
+         "Description":"Look at our FAQs"
+      }
+   ]
 }

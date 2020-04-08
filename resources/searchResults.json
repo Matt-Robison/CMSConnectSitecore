@@ -18,7 +18,7 @@ xmlns:sfdc="http://salesforce.com/2016/federatedsearch/1.0">
     <id>https://example.com/id:GhITRcjf5go_JLero45</id>
     <link href="https://www.example.com/library/unittest.html"/>
     <sfdc:link>/sitecore-maternity-json</sfdc:link>
-    <summary>Maternity Videos &lt;a href='testing.htm'&gt;for&lt;/a&gt; you to watch</summary>
+    <summary>Maternity Videos for you to watch</summary>
     <updated>2016-07-13T15:24:57.000Z</updated>
     <published>2016-07-13T15:24:57.000Z</published>
   </entry>

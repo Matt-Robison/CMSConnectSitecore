@@ -1,10 +1,84 @@
 {"ItemID":"110d559f-dea5-42ea-9c1c-8a5df7e70ef9",
 	"ItemName":"Home","ItemPath":"/sitecore/content/Home","ParentID":"0de95ae4-41ab-4d01-9eb0-67441b7c2450","TemplateID":"76036f5e-cbce-46d1-af0a-4143f9b557aa","TemplateName":"Sample Item","CloneSource":null,"ItemLanguage":"en","ItemVersion":"1","DisplayName":"Home","HasChildren":"False","ItemIcon":"/temp/iconcache/network/16x16/home.png","ItemMedialUrl":"/~/icon/Network/48x48/home.png.aspx","ItemUrl":"~/link.aspx?_id=110D559FDEA542EA9C1C8A5DF7E70EF9&amp;_z=z",
-
-
-
-
-"Text":"<div clas
+"Text":"<div class=\"container\"><div class=\"row page-content\">
+		<div class=\"col-md-2 hidden-xs hidden-sm scGridDesignerArea\" id=\"ctl2\">
+      <nav id=\"sectionNav\"><ul class=\"nav left-menu\"><li class=\"\"><a href=\"/Maternity/Maternity-Tours-and-Booking-Online\">Maternity Tours and Booking Online</a></li><li class=\"
+            parent
+            \"><a href=\"/Maternity/Our-Maternity-Unit\">Our Maternity Unit</a></li><li class=\"
+            parent
+            \"><a href=\"/Maternity/The-Luxe-Way\">The Luxe Way</a></li><li class=\"
+            parent
+             open\"><a href=\"/Maternity/Maternity-Education\">Maternity Education</a><ul><li class=\"
+            parent
+            \"><a href=\"/Maternity/Maternity-Education/Antenatal-Classes\">Antenatal Classes</a></li><li class=\"\"><a href=\"/Maternity/Maternity-Education/After-Birth-Education\">After Birth Education</a></li><li class=\"\"><a href=\"/Maternity/Maternity-Education/Baby-CPR-Classes\">Baby CPR Classes</a></li><li class=\"
+            highlight
+          \"><a href=\"/Maternity/Maternity-Education/Maternity-Education-Videos\">Maternity Education Videos</a></li><li class=\"\"><a href=\"/Maternity/Maternity-Education/Useful-Resources\">Useful Resources</a></li></ul></li><li class=\"
+            parent
+            \"><a href=\"/Maternity/Contact-Us\">Contact Us</a></li><li class=\"\"><a href=\"/Maternity/The-Private-Experience\">The Private Experience</a></li></ul></nav>
+      <div class=\"left-menu-ads\">
+       
+      </div>
+    </div>
+    <div class=\"col-md-10 page scGridDesignerArea\" id=\"ctl9\">
+      <h1>Maternity Education Videos</h1>
+<h2>Before Birth</h2>
+<div class=\"col-md-6 pg-img-left\">
+	<embed width=\"420\" height=\"315\"
+src=\"https://www.youtube.com/embed/s7KH9Ej2ylw?rel=0\">
+<p><strong>Maternity Liaison (Part A) at St George Private Hospital</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-right\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/n5M05l-YxxY?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>Maternity Liaison (Part B) at St George Private Hospital</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-left\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/NAGrlkNi1Yw?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>Common Pregnancy Symptoms with Dr Supriya Kantikar</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-right\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/Kv7FH0NhEcc?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>Morning Sickness in Pregnancy with Dr Tony Bushati</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-left\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/YjszIFDIZaQ?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>Immunisation in Pregnancy with Dr Marcella Martin</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-right\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/OcIOLBckqOc?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>Contraception in Pregnancy with Dr Monique Damasco</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-left\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/mtmTotaPhlI?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>Weight Gain in Pregnancy with Dr Supriya Kantikar</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-right\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/VL8hhJ1B5dc?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>Food Intake in Pregnancy with Dr Supriya Kantikar</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-left\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/3uUk9QsQaeo?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>The 3 Stages of Labour with Dr Irena Blaskovic</strong></p>
+</div>
+<h2 style=\"clear: both;\">After Birth</h2>
+<div class=\"col-md-6 pg-img-left\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/YTFCaR3LQyY?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>Common Pregnancy Issues- Constipation and Haemorroids in pregnancy with Dr Emmanuel Karantanis</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-right\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/8zuRSvWuLXQ?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>When can I have sex after childbirth with Dr Tony Bushati</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-left\" style=\"clear: both;\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/f1C4-qXJD-Q?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>Incontinence Following Childbirth with Dr Emmanuel Karantanis</strong></p>
+</div>
+<div class=\"col-md-6 pg-img-right\">
+<iframe width=\"100%\" height=\"206\" src=\"https://www.youtube.com/embed/YjxujrrEzfw?rel=0\" frameborder=\"0\" allowfullscreen=\"1\"></iframe>
+<p><strong>How to Wrap Your Baby at St George Private Hospital</strong></p>
+</div>
+      
+ </div>
+</div>
   	</div>",
 
 

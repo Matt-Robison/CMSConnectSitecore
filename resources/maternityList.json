@@ -1,13 +1,13 @@
 {
    "articles":[
       {
-         "ID":"maternity-education.json",
-         "title":"Videos",
+         "ItemID":"maternity-education.json",
+         "ItemName":"Videos",
          "Description":"Look at the maternitiy videos"
       },
       {
-         "ID":"faq.json",
-         "title":"FAQ",
+         "ItemID":"faq.json",
+         "ItemName":"FAQ",
          "Description":"Look at our FAQs"
       }
    ]

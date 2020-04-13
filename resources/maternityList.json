@@ -3,12 +3,15 @@
       {
          "ID":"maternity-education.json",
          "ItemName":"Videos",
-         "Text":"Look at the maternitiy videos"
+         "Text":"Look at the maternitiy videos",
+         "Image":"https://www.stgeorgeprivate.com.au/Maternity/Maternity-Education/Maternity-Education-Videos/~/media/Content-Images/SGP/Maternity/Banners/RHC672-St-George-Maternity-Internal-Banners-V2-NO-TEXT-1117.jpg"
+
       },
       {
          "ID":"faq.json",
          "ItemName":"FAQ",
-         "Text":"Look at our FAQs"
+         "Text":"Look at our FAQs",
+         "Image":"https://www.waverleyprivate.com.au/Maternity/Frequently-asked-questions/~/media/Content-Images/WMP/Maternity/banners/WMP-Maternity_Banners7"
       }
    ]
 }

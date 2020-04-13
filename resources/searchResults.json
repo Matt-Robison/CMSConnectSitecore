@@ -17,7 +17,7 @@ xmlns:sfdc="http://salesforce.com/2016/federatedsearch/1.0">
     <title>Maternity Education Videos</title>
     <id>https://example.com/id:GhITRcjf5go_JLero45</id>
     <link href="https://www.example.com/library/unittest.html"/>
-    <sfdc:link>/s/herokuhtml-maternity/maternity-education.json</sfdc:link>
+    <sfdc:link>/s/herokuhtml-maternity/maternity-education.json/home</sfdc:link>
     <summary>Maternity Videos for you to watch</summary>
     <updated>2016-07-13T15:24:57.000Z</updated>
     <published>2016-07-13T15:24:57.000Z</published>
@@ -25,8 +25,9 @@ xmlns:sfdc="http://salesforce.com/2016/federatedsearch/1.0">
   <entry>
     <title>FAQ</title>
     <id>https://example.com/id:UCAuUUnT6oDeKwE6v1</id>
-    <link href="https://www.example.com/library/cancertest.html"/>
-    
+    <link href="https://www.example.com/library/test.html"/>
+    <sfdc:link>/s/herokuhtml-maternity/faq.json</sfdc:link>
+    <sfdc:customLInk__c>/s/herokuhtml-maternity/faq.json/home</sfdc:link>
     <summary>Coffee wordpress</summary>
     <updated>2012-08-15T15:20:54.000Z</updated>
     <published>2012-08-15T15:20:54.000Z</published>

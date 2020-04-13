@@ -26,9 +26,8 @@ xmlns:sfdc="http://salesforce.com/2016/federatedsearch/1.0">
     <title>FAQ</title>
     <id>https://example.com/id:UCAuUUnT6oDeKwE6v1</id>
     <link href="https://www.example.com/library/test.html"/>
-    <sfdc:link>/s/herokuhtml-maternity/faq.json</sfdc:link>
-    <sfdc:customLInk__c>/s/herokuhtml-maternity/faq.json/home</sfdc:link>
-    <summary>Coffee wordpress</summary>
+    <sfdc:link>/s/herokuhtml-maternity/faq.json/home</sfdc:link>
+    <summary>FAQ for Maternity</summary>
     <updated>2012-08-15T15:20:54.000Z</updated>
     <published>2012-08-15T15:20:54.000Z</published>
   </entry>

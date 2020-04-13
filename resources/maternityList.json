@@ -3,15 +3,13 @@
       {
          "ID":"maternity-education.json",
          "ItemName":"Videos",
-         "Text":"Look at the maternitiy videos",
-         "Image":"https://cms-connect-sitecore.herokuapp.com/resources/RHC672-St-George-Maternity-Internal-Banners-V2-NO-TEXT-1117.jpg"
+         "Text":"Look at the maternitiy videos"
 
       },
       {
          "ID":"faq.json",
          "ItemName":"FAQ",
-         "Text":"Look at our FAQs",
-         "Image":"https://cms-connect-sitecore.herokuapp.com/resources/WMP-Maternity_Banners7.jpg"
+         "Text":"Look at our FAQs"
       }
    ]
 }
